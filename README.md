@@ -1,2 +1,29 @@
-# Health-Buddy
-Calorie tracker that scan barcodes of snacks and recommends snacks based on users health (vmi,bmr). Coded at HackHers 2019 as part of a team.
+# nutrition-proj
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
